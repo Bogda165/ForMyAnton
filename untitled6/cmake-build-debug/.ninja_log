@@ -1,0 +1,17 @@
+# ninja log v6
+1719	1835	1732564524367549296	bin/untitled6	e123e4d5a3d51eb1
+507	1621	1732564523155091892	CMakeFiles/untitled6.dir/ChatApp.cpp.o	baf49b348d5279a8
+2	225	1732574924901668927	build.ninja	79fa753f5c55a6ce
+506	1719	1732564523154880560	CMakeFiles/untitled6.dir/main.cpp.o	88f64790ad40a71
+22	506	1732564523138160000	untitled6_autogen/mocs_compilation.cpp	4173c428520635d7
+1762	1879	1732561515872229424	untitled6	72447e5632e6a458
+506	1711	1732564523154552394	CMakeFiles/untitled6.dir/untitled6_autogen/mocs_compilation.cpp.o	8f8125d7aed2bbd4
+22	506	1732564523138160000	untitled6_autogen/timestamp	4173c428520635d7
+11	532	1732574969996083000	untitled6_autogen/timestamp	6333e500919b076a
+11	532	1732574969996083000	untitled6_autogen/mocs_compilation.cpp	6333e500919b076a
+11	532	1732574969996083000	/Users/user/CLionProjects/PKS/untitled6/cmake-build-debug/untitled6_autogen/timestamp	6333e500919b076a
+11	532	1732574969996083000	/Users/user/CLionProjects/PKS/untitled6/cmake-build-debug/untitled6_autogen/mocs_compilation.cpp	6333e500919b076a
+533	1635	1732574970013163642	CMakeFiles/untitled6.dir/ChatApp.cpp.o	405b0b768479dc6c
+532	1723	1732574970012763812	CMakeFiles/untitled6.dir/untitled6_autogen/mocs_compilation.cpp.o	8d114cfba9fa7d02
+533	1732	1732574970013018101	CMakeFiles/untitled6.dir/main.cpp.o	b1d54f1bbf7f0666
+1732	1846	1732574971212516578	bin/untitled6	e123e4d5a3d51eb1
